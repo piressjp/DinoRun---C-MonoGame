@@ -1,4 +1,4 @@
-﻿using DinoGame.Domain;
+﻿using DinoGame.Models;
 using Microsoft.Xna.Framework;
 using System;
 using System.Collections.Generic;

@@ -1,4 +1,4 @@
-﻿namespace DinoGame.Domain
+﻿namespace DinoGame.Models
 {
     public class Obstacle
     {

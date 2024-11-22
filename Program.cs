@@ -1,4 +1,4 @@
-﻿using DinoGame.UI;
+﻿using DinoGame.View;
 
 using var game = new GameInterface();
 game.Run();
