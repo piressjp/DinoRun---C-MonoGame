@@ -13,11 +13,11 @@ Este projeto foi desenvolvido como um exercício educacional para:
 - Aprender sobre colisões, animações e loops de jogo.
 
 # Padrão de Projeto
-O projeto segue o padrão de arquitetura MVC (Model-View-Controller) simplificado:
+O projeto segue o padrão de arquitetura MVP (Model-View-Presenter) simplificado:
 
 - Model: Representa as entidades principais do jogo (Player, Obstacle).
 - View: Renderiza gráficos na tela e lida com entradas do usuário.
-- Controller: A lógica do jogo está no GameService, responsável por atualizar o estado do jogo.
+- Presenter: A lógica do jogo está no GameService, responsável por atualizar o estado do jogo.
 
 # Stack
 - Linguagem: C#
