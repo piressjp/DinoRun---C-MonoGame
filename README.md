@@ -74,4 +74,3 @@ Se você deseja contribuir para este projeto:
 
 # Créditos
 **Arte**: Sprites do dinossauro obtidos no OpenGameArt.
-**Fonte**: PixelOperator, disponível em DaFont.
