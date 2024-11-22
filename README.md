@@ -2,7 +2,7 @@
 - Um jogo simples inspirado no clássico jogo do dinossauro offline do Google Chrome. Desenvolvido em C# usando a biblioteca MonoGame, este projeto é uma introdução ao desenvolvimento de jogos 2D, apresentando mecânicas básicas como movimentação, colisões e lógica de pontuação.
 
 # Objetivo do Jogo
-- O objetivo do jogador é sobreviver o maior tempo possível, desviando de obstáculos enquanto o dinossauro corre automaticamente. A dificuldade aumenta conforme o tempo passa, com os obstáculos surgindo mais rapidamente.
+- O objetivo do jogador é sobreviver o maior tempo possível, desviando de obstáculos enquanto o dinossauro corre automaticamente. A dificuldade aumenta conforme o tempo passa, com os obstáculos surgindo mais rapidamente e a velocidade do dinossauro subindo.
 
 # Finalidade do Projeto
 Este projeto foi desenvolvido como um exercício educacional para:
