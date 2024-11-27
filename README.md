@@ -71,6 +71,57 @@ Se você deseja contribuir para este projeto:
 3. Faça commit de suas alterações (git commit -m "Adiciona minha feature").
 4. Envie o branch (git push origin minha-feature).
 5. Abra um Pull Request.
+   
+# Time de desenvolvimento
+- Pedro Domingues 29443768
+- Kaique Santos 30063272
+- João Paulo Costa Pires 29291135
+- Giovana Costa 31496636
+
+# Checklist de Desenvolvimento
+
+## Fase 1: Análise [ Done ] 
+
+    [ Kaique ] Problema selecionado e definido claramente.
+    [ Kaique ]  Compreensão aprofundada da natureza e desafios do problema.
+    [ Kaique ] Modelo matemático ou teórico desenvolvido para representar o problema.
+
+## Fase 2: Planejamento [ Done ] 
+
+     [ Pedro ] Objetivos do algoritmo definidos com clareza.
+     [ Pedro ] Métricas para avaliação de eficiência do algoritmo estabelecidas.
+     [ João Paulo ] Estratégia geral de resolução do problema proposta.
+     [ João Paulo ] Estrutura geral do algoritmo esboçada.
+     [ João Paulo ] Casos limite ou situações especiais identificados.
+     [ João Paulo ] Análise teórica realizada para verificar a correção do algoritmo.
+
+## Fase 3: Desenho [ Done ] 
+
+     [ Giovana ] Análise de complexidade realizada para avaliar a eficiência teórica do algoritmo.
+     [ Giovana ] Pontos críticos do algoritmo identificados para otimização, se necessário.
+
+## Fase 4: 
+
+ ### Programação e Teste [ Done ] 
+
+     [ João Paulo ] Algoritmo traduzido com precisão em código de programação.
+     [ João Paulo ] Código de programação escrito de forma clara e organizada.
+     [ João Paulo ] Testes rigorosos realizados em uma variedade de casos de teste.
+     [ Kaique ] Casos limite e situações especiais testados.
+     [ Kaique e João Paulo ] Erros e problemas durante o teste de programa identificados e corrigidos.
+
+ ### Documentação e Avaliação do Projeto [ Done ] 
+
+     [ João Paulo ] Documentação completa, incluindo especificação do algoritmo e análise de complexidade.
+     [ Giovana ] Documentação revisada para clareza e rigor técnico.
+     [ Kaique ] Avaliação da eficácia do algoritmo em termos de tempo de execução, uso de recursos e precisão na resolução do problema.
+     [ Giovana ] Avaliação da colaboração da equipe e cumprimento dos prazos.
+
+ ### Apresentação e Conclusão do Projeto [ Done ] 
+
+     [ João Paulo ] Apresentação do projeto preparada com informações claras e objetivas.
+     [ João Paulo ] Conclusões do projeto destacando os resultados e aprendizados.
+     [ João Paulo ] Discussão sobre o projeto e respostas a perguntas da audiência.
 
 # Créditos
 **Arte**: Sprites do dinossauro obtidos no OpenGameArt.
