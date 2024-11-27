@@ -80,13 +80,16 @@ Se você deseja contribuir para este projeto:
 
 # Checklist de Desenvolvimento
 
-## Fase 1: Análise [ Done ] 
+## Fase 1: 
+
+### Análise [ Done ] 
 
     [ Kaique ] Problema selecionado e definido claramente.
     [ Kaique ]  Compreensão aprofundada da natureza e desafios do problema.
     [ Kaique ] Modelo matemático ou teórico desenvolvido para representar o problema.
 
-## Fase 2: Planejamento [ Done ] 
+## Fase 2: 
+### Planejamento [ Done ] 
 
      [ Pedro ] Objetivos do algoritmo definidos com clareza.
      [ Pedro ] Métricas para avaliação de eficiência do algoritmo estabelecidas.
@@ -95,7 +98,8 @@ Se você deseja contribuir para este projeto:
      [ João Paulo ] Casos limite ou situações especiais identificados.
      [ João Paulo ] Análise teórica realizada para verificar a correção do algoritmo.
 
-## Fase 3: Desenho [ Done ] 
+## Fase 3: 
+### Desenho [ Done ] 
 
      [ Giovana ] Análise de complexidade realizada para avaliar a eficiência teórica do algoritmo.
      [ Giovana ] Pontos críticos do algoritmo identificados para otimização, se necessário.
